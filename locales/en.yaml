@@ -1,10 +1,10 @@
-greeting: "Hello ${username}! Bot Ini Bergungsi untuk membuat group dari foto atau video tanpa harus repot upload ulang,\n\nForward me any Photo's Or Videos!\n\n"
-help: 'Just forward or send me multiple photos and/or videos. Once you are done, press the "Create Album" Button and get all your previously sent files jammed together as albums. If you screwed up, click "Clear Album" to start again.\n\nThis piece of shit is made by @wjclub.'
-settings: 'Join Our Channel @foryoubbs'
-source: "https://github.com/lullaby23/fwdtb"
+greeting: "Hello ${username}! Bot Ini Berfungsi untuk membuat group dari foto atau video tanpa harus repot upload ulang,\n\nForward me any Photo's Or Videos!\n\n Follow Our Channel @Foryoubabes1 \n\n U need 14$ For bot like this just chat @fybadmin"
+help: 'Just forward or send me multiple photos and/or videos. Once you are done, press the "Create Album" Button and get all your previously sent files jammed together as albums. If you screwed up, click "Clear Album" to start again.\n\nThis piece of shit is made @fybadmin 14$ If u want make bot like this.'
+settings: 'Join Our Channel @foryoubabes1, contact @fybadmin to make like this bot'
+source: "Cie Kepo"
 
 
 keyboard_done: "Buat Album 🗃️"
 keyboard_clear: "Reset Album 📁"
-not_enough_media_items: "Maaf 🙏, Kamu Harus Mengirim Foto Atau Video Terlebih Dahulu."
-queue_cleared: "Foto & Video Telah Di Reset, Kirim Kembali Foto Atau Videomu."
+not_enough_media_items: "Maaf 🙏, Kamu Harus Mengirim Foto Atau Video Terlebih Dahulu. 14$ Untuk Buat Bot Seperti Ini Chat @fybadmin"
+queue_cleared: "Foto & Video Telah Di Reset, Kirim Kembali Foto Atau Videomu. 14$ Untuk Bot Seperti Ini Chat @Fybadmin"
